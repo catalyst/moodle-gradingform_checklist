@@ -91,3 +91,5 @@ $string['enablegroupremarks'] = 'Allow grader to add text remarks for each check
 $string['showremarksstudent'] = 'Show all remarks to those being graded';
 $string['unchecked'] = 'Unchecked';
 $string['maxlengthalert'] = 'This input field has a maximum length of {$a} characters';
+
+$string['privacy:metadata'] = 'The plugin does not store any personal data.';
